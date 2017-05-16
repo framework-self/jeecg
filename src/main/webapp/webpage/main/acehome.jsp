@@ -25,7 +25,7 @@
 <body class="gray-bg">
     <div class="row  border-bottom white-bg dashboard-header">
         <div class="col-sm-12">
-            <blockquote class="text-warning" style="font-size:14px">您是否需要一款企业级J2EE快速开发平台，提高开发效率，缩短项目周期…
+            <blockquote class="text-warning:hover" style="font-size:14px">您是否需要一款企业级J2EE快速开发平台，提高开发效率，缩短项目周期…
                 <br>您是否一直在苦苦寻找一款强大的代码生成器，节省码农的繁琐重复工作…
                 <br>您是否想拥有移动报表能力、自定义表单设计能力、插件开发能力(可插拔)、工作流配置能力…
                 <br>…………
@@ -42,9 +42,7 @@
             <br>
         </div>
         <div class="col-sm-5">
-            <h2>
-                            Jeecg 微云快速开发平台
-                        </h2>
+            <h2>Jeecg 微云快速开发平台</h2>
             <p>JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单)->代码生成器模式->手工MERGE智能开发)， 可以帮助解决Java项目60%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。她可以用于所有的Web应用程序，如:<b>MIS</b>，<b>CRM</b>，<b>OA</b>，<b>ERP</b>，<b>CMS</b>，<b>网站后台</b>，<b>微信管家</b>，等等，当然，您也可以对她进行深度定制，以做出更强系统。</p>
             <p>
                 <b>当前版本：</b>v_3.7
